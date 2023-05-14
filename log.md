@@ -32,6 +32,7 @@
  
  ### Day 0: MAY 14, Sunday
  
- **Today's Progress: I've gone through the javascript array and build-in method to manipulate arrays. After sometime of figuring out the few methods I finally understood how they work.
+ **Today's Progress: I've gone through the javascript array and build-in method to manipulate arrays as refresher. After sometime of figuring out the few methods I finally understood how they work.
  
- **Link:
+ **Link:https://samoel33.github.io/JsArrays/index.html
+ **Link:https://github.com/Samoel33/JsArrays
